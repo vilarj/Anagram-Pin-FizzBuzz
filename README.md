@@ -12,5 +12,3 @@ Write a program that prints the numbers from 1 to 100. But for multiples of thre
 are multiples of both three and five print “FizzBuzz”.
 In this assignment, you’ll be implementing a variation of this problem to make sure you are comfortable
 writing a simple Java program from scratch using command line arguments.
-
-# Lab 4: 
